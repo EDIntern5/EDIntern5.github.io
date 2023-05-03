@@ -9,7 +9,7 @@ year: YearOne
 comments: false
 ---
 <p align="center">
-Firstly, here are my <a class="btn zoombtn" href="{{ site.url }}YearOne/Spring2023/GEOG520/reflections">
+Firstly, here are my <a class="btn zoombtn" href="{{ site.url }}YearOne/Spring2023/GEOG520/Reflections">
      Reflections
      </a> 
 from this past semester...<br/>
