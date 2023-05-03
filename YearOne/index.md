@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landingpage
 title: "Year One"
 comments: false
 ---
