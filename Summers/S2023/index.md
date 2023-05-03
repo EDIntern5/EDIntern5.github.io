@@ -1,8 +1,8 @@
 ---
 layout: landingpage
 title: "2023"
-year: 2023
+year: Summer
 season: S
-calyear: Summers
+calyear: 2023
 comments: false
 ---
