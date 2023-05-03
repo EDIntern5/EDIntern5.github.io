@@ -1,10 +1,10 @@
 # Site navigation links
 
 - title: Year One
-  url: YearOne/
+  url: /YearOne/
   
 - title: Year Two
-  url: YearTwo/
+  url: /YearTwo/
   
 - title: Summers
-  url: Summers/
+  url: /Summers/
