@@ -122,7 +122,7 @@ img {
 	border: 3px solid $white;
 	height: auto;
     width: auto;
-    object-fit: cover;
+    object-fit: contain;
 }
 .author-photo {
     background-color: $white;
