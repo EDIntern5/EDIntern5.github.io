@@ -5,5 +5,5 @@ teacher: Dr. Erica Smithwick
 season: Spring
 calyear: 2023
 year: YearOne
-comments: true
+comments: false
 ---
