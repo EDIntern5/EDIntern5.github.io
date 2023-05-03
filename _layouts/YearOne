@@ -21,8 +21,8 @@ layout: compress
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
-                <div class="post-list">
-                    {% for post in site.posts %} 
+                <div class="YearOne">
+                    {% for post in site.YearOne %} 
                         {% if post.project == null %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
