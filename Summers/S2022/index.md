@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: course-page
 title: "2022"
 comments: false
 season: S
