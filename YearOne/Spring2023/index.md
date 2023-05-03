@@ -1,5 +1,5 @@
 ---
-layout: landingpage
+layout: page
 title: "Spring 2023"
 year: YearOne
 comments: false
