@@ -10,8 +10,8 @@
 						<h4>{{ site.title }}</h4>
 						<p><font size="1">{{ site.description }}</font></p>
 					</li>
-					{% if site.email %}<li>
-                        <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
+					{% if site.website %}<li>
+                        <a href="{{ site.website }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-user-circle"></i> Website</a>
                     </li>{% endif %}
                     {% if site.twitter %}<li>
                         <a href="http://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
