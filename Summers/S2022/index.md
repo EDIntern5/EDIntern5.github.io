@@ -1,5 +1,5 @@
 ---
-layout: course-page
+layout: landingpage
 title: "2022"
 comments: false
 season: S
