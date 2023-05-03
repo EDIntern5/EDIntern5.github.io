@@ -11,7 +11,7 @@ comments: false
 Firstly, here are my <a class="btn zoombtn" href="{{ site.url }}YearOne/Spring2023/GEOG520/reflections">
      Reflections
      </a> 
-from this past semester...
+from this past semester...<b  />
 
 And following, are some audiovisual media content I've gathered to complement the more static, literal elements of <b>Mikrokosmos</b>
 </p>
