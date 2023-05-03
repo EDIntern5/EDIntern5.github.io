@@ -4,4 +4,4 @@ title: "Year Two"
 comments: false
 ---
 
-Coming soon!
+(Hopefully) Exciting Things (Hopefully) Coming Soon!!
