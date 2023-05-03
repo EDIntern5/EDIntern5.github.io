@@ -12,4 +12,7 @@ comments: false
     <a class="btn zoombtn" href="{{ site.url }}YearOne/Spring2023/GEOG520">
      GEOG 520
      </a>
+   <a class="btn zoombtn" href="{{ site.url }}YearOne/Spring2023/GEOG560">
+     GEOG 560
+     </a>
  </h3>
