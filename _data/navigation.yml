@@ -1,4 +1,10 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Year One
+  url: YearOne/
+  
+- title: Year Two
+  url: YearTwo/
+  
+- title: Summers
+  url: Summers/
