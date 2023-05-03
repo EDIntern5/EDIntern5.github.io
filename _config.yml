@@ -4,7 +4,7 @@ bio:                'A site to collect and archive finals projects during the co
 description:        'A site to collect and archive finals projects during the course of my geography program at Penn State University'
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/47878(2).jpeg'
+logo:               'assets/img/PXL_20230307_200053133.MP.jpg'
 background:         'assets/img/CityofNH.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
