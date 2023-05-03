@@ -1,5 +1,5 @@
 ---
-layout: landingpage
+layout: page
 title: "Summers"
 comments: false
 ---
