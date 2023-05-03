@@ -1,5 +1,5 @@
 ---
-layout: course-page
+layout: post
 title: "GEOG 520 - Scale Matters"
 teacher: "Drs. Lorraine Dowler and Mark Ortiz"
 season: Spring
