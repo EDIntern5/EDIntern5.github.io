@@ -1,7 +1,7 @@
 ---
 layout: post
-title: GEOG 502 - Research Methods
-teacher: Dr. Erica Smithwick
+title: "GEOG 502 - Research Methods"
+teacher: "Dr. Erica Smithwick"
 season: Spring
 calyear: 2023
 year: YearOne
