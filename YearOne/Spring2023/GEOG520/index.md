@@ -11,9 +11,9 @@ Firstly, here are my <h3 class="title">
     <a class="btn zoombtn" href="{{ site.url }}YearOne/Spring2023/GEOG520/reflections">
      Reflections
      </a> 
-</h3> from this past semester
+</h3> from this past semester...
 
 <p align="center">
-And following, I've gathered audiovisual media content to complement the more static, literal elements of my zine. 
+And following, are some audiovisual media content I've gathered to complement the more static, literal elements of Mikrokosmos.
 </p>
 
