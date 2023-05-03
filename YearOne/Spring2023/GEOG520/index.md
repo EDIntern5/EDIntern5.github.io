@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GEOG 520 - Scale Matters"
+teacher: "Drs. Lorraine Dowler and Mark Ortiz"
 comments: false
 ---
 <p align="center">
