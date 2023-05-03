@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Madness of Multiscalarity"
-comments: false
+course: GEOG520
 year: YearOne
 season: Spring
 calyear: 2023
-course: GEOG520
+comments: false
 ---
