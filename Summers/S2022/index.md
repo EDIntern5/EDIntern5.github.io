@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Fall 2022"
+title: "2022"
 comments: false
 ---
