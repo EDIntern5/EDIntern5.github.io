@@ -69,7 +69,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
-jekyll-mentions:
+#jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
