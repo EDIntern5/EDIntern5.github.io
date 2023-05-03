@@ -4,5 +4,5 @@ title: "Year Two"
 comments: false
 ---
 <p align="center"> 
-    **Exciting Things** (Hopefully) **Coming Soon!!** 
+    <p style="font-weight:500">{{Exciting Things}}</p> (Hopefully) <p style="font-weight:500">{{Coming Soon!!}}</p>
 </p>
