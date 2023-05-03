@@ -4,5 +4,5 @@ title: "Year Two"
 comments: false
 ---
 <p align="center"> 
-**Exciting Things** (Hopefully) **Coming Soon!!**
+Exciting Things (Hopefully) Coming Soon!!
 </p>
