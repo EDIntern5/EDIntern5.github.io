@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: page
 title: "Year One"
 comments: false
 ---
