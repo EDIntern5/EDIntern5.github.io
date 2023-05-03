@@ -4,4 +4,8 @@ title: "Spring 2023"
 comments: false
 ---
 
-[GEOG 520](https://FM-Kim-psu.github.io/YearOne/Spring2023/GEOG520){: .btn .btn--large .btn}
+ <h3 class="title">
+     <a class="btn zoombtn" href="{{ site.url }}YearOne/Spring2023/GEOG520">
+     GEOG 520
+     </a>
+ </h3>
