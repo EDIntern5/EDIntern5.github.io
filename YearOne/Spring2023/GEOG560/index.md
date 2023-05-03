@@ -7,3 +7,8 @@ year: YearOne
 calyear: 2023
 comments: false
 ---
+
+# Huh? Wait, what? 
+<figure>
+    ![Confusing]{https://media.giphy.com/media/l4JA1COQqiZB6/giphy.gif}
+No, my friends, you see correctly! There isn't anything "real" to read on here, so much as it
