@@ -3,4 +3,6 @@ layout: page
 title: "Year Two"
 comments: false
 ---
-<p align="center"> **Exciting Things** (Hopefully) **Coming Soon!!** </p>
+<p align="center"> 
+    **Exciting Things** (Hopefully) **Coming Soon!!** 
+</p>
