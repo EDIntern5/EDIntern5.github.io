@@ -10,6 +10,6 @@ comments: false
 
 # Huh? Wait, what? 
 
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/l4JA1COQqiZB6/giphy.gif">
+<img align="left" width="250" height="250" src="https://media.giphy.com/media/l4JA1COQqiZB6/giphy.gif">
 
 No, my friends, you see correctly! There isn't anything "real" to read on here, so much as it
