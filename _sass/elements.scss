@@ -121,8 +121,8 @@ img {
 	border-radius: 50%;
 	border: 3px solid $white;
 	height: auto;
-	max-width: 100%
-    width:;
+    width: auto;
+    object-fit: cover;
 }
 .author-photo {
     background-color: $white;
