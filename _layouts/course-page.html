@@ -15,10 +15,10 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
-                <div class="post-title {% if page.feature %} feature {% endif %}">
+                <div class="post-title {% if course-page.feature %} feature {% endif %}">
                     <h1>{{ course-page.title }}</h1>
                     <h3>{{ course-page.teacher }}</h3>
-                    <a class="btn zoombtn" href="{{site.url}}/{{site.season}}{{site.calyear}}">
+                    <a class="btn zoombtn" href="{{site.url}}/{{course-page.season}}{{course-page.calyear}}">
                         <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
