@@ -1,7 +1,10 @@
 ---
-layout: post
+layout: course-page
 title: "GEOG 520 - Scale Matters"
 teacher: "Drs. Lorraine Dowler and Mark Ortiz"
+season: Spring
+calyear: 2023
+year: YearOne
 comments: false
 ---
 <p align="center">
