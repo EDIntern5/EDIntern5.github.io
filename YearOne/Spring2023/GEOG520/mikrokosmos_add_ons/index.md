@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Adding on to the Mikrokosmos
+title: Adding to the Mikrokosmos
 comments: false
 ---
