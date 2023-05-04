@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No More Dream Music Video"
-project: mikrokosmos_add_ons
+project: true
 course: GEOG520
 season: Spring
 year: YearOne
