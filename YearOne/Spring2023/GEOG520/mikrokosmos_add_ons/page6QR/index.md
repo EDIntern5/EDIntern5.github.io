@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blood, Sweat, Tears and Boy Meets Evil
-project: mikrokosmos_add_ons
+project: true
 course: GEOG520
 season: Spring
 year: YearOne
