@@ -55,6 +55,11 @@ nav img{
 .navbar ul li:hover::after{
     width: 90%
 }
+hr.line{
+    border:0;
+    height: 2px;
+    background-image:linear-gradient(to right, rgba(0,0,0,0),#092950,rgba(0,0,0,0));
+}
 .landing-center{
     background-color:#fff;
     height: 85%;
