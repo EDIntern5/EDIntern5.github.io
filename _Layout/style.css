@@ -127,3 +127,24 @@ hr.line{
     height: 2px;
     background-image:linear-gradient(to right, rgba(0,0,0,0),#092950,rgba(0,0,0,0));
 }
+
+.topnav{
+    background-color:#006264;
+    overflow: hidden;
+}
+.topnav a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2% 16%;
+    text-decoration: none;
+    font-size:100%
+}
+.topnav a:hover{
+    background-color:#092950;
+    color: white;
+}
+.topnav .icon{
+    display: none;
+}
