@@ -37,7 +37,7 @@ nav img{
 .nav-links ul li a{
     color: white;
     text-decoration: none;
-    font-size: 25%;
+    font-size: 75%;
 }
 .nav-links ul li::after{
     content: '';
@@ -56,7 +56,8 @@ nav img{
 /* style.css equivalent of landing-center */
 .text-box{
     width: 90%;
-    color: white;
+    background-color: white;
+    color: #092950;
     position: absolute;
     top: 50%;
     left: 50%;
