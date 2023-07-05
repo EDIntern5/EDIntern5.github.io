@@ -1,0 +1,26 @@
+# Site
+title:              Livable City Initiative
+bio:                'A draft site to use as a possible template or framework for the public facing LCI dashboards'
+description:        'A draft site to use as a possible template or framework for the public facing LCI dashboards'
+reading_time:       false
+#words_per_minute:   
+logo:               'imgs/LCILogo2.jpg'
+background:         'imgs/NHVGreen.png'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+url:                https://EDIntern5.github.io/
+
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
