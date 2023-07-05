@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="greatstackstyle.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/e8e8b5dd9d.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <section class="header">
+        <nav>
+            <a href="greatstackversion.html"><img src="imgs/NHVLogo.png">
+            <div class="nav-links">
+                <i class="fa-solid fa-xmark" style="color: white;" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="https://edintern5.github.io/">Home</a></li>
+                    <li><a href="https://edintern5.github.io/AntiBlight">Anti-Blight</a></li>
+                    <li><a href="https://edintern5.github.io/HousingCode">Housing Code Enforcement</a></li>
+                    <li><a href="https://edintern5.github.io/RentalLicensing">Residential Rental Licensing</a></li>
+                </ul>
+                <i class="fa-solid fa-bars" style="color: white;" onclick="showMenu()"></i>
+            </div>
+        </nav>
+    <div class="text-box"><!--index.html equivalent of section class="landing-center"-->
+        <h1>Livable City Initiative</h1>
+        <p></p><b>The Livable City Initiative (LCI)</b> is a neighborhood-focused agency with a mission to enhance the experience of the individuals who live and work in the City of New Haven. We achieve this mission and vision by encouraging the involvement of other city agencies, enterprise, and most importantly, the public. Through the cooperative efforts of the public and private sectors, we will create a vibrant ane exciting New Haven for all. Learn more about the agency <a href="https://www.newhavenct.gov/government/departments-divisions/livable-city-initiative">here</a>.</p>
+    </div>
+    </section>
+<!--JavaScript for Toggling Menu Bar-->
+    <script>
+        var navLinks = document.getElementbyId("navLinks");
+
+        function hideMenu(){
+            navLinks.style.right = "-100%";
+        }
+        function showMenu(){
+            navLinks.style.right = "0";
+        }
+    </script>
+</body>
