@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-/* style.css equivalent of .background */
+/* style.css equivalent of .banner and .background
 .header{
     min-height: 100vh;
     width: 100%;
@@ -12,8 +12,22 @@
     background-size: cover;
     position: relative; 
     background-repeat: no-repeat;
+} */
+.banner{
+    background-color: #092950;
+    height: auto;
+    width: auto;
+    line-height:200%
 }
-
+.background{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(imgs/NHVGreen.png);
+    background-position: center;
+    background-size: cover;
+    position: relative; 
+    background-repeat: no-repeat;
+}
 nav{
     display: flex;
     padding: 2% 4%;
