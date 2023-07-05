@@ -60,7 +60,7 @@ hr.line{
     height: 2px;
     background-image:linear-gradient(to right, rgba(0,0,0,0),#092950,rgba(0,0,0,0));
 }
-.landing-center{
+.landing-page{
     background-color:#fff;
     height: 85%;
     width: 45%;
@@ -70,6 +70,10 @@ hr.line{
     font-weight: 300;
     line-height: 150%;
 }
+.landing-page p{
+    text-align: justify;
+}
+
 img{
     display: block;
     margin-left: auto;
@@ -126,4 +130,14 @@ nav .fa{
         cursor: pointer;
 
     }
+}
+.antiBlight{ 
+    background-color:#fff;
+    height: 85%;
+    width: 45%;
+    margin: auto;
+    text-align: center;
+    padding: 3%;
+    font-weight: 300;
+    line-height: 150%;
 }
