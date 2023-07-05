@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* style.css equivalent of .background */
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(imgs/NHVGreen.png);
+    background-position: center;
+    background-size: cover;
+    position: relative; 
+    background-repeat: no-repeat;
+}
+
+nav{
+    display: flex;
+    padding: 2% 4%;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    width: 85%
+}
+/* style.css equivalent of .navbar */
+.nav-links{
+    flex: 1;
+    text-align: right;
+}
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0.5% 1.5%;
+    position: relative;
+}
+.nav-links ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 25%;
+}
+.nav-links ul li::after{
+    content: '';
+    height: 3px;
+    width: 0%;
+    background: #006264;
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    transition: 0.5s;
+}
+.nav-links ul li:hover::after{
+    width: 100%;
+}
+
+/* style.css equivalent of landing-center */
+.text-box{
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    text-align: center;
+}
+.text-box h1{
+    font-size: 200%;
+}
+.text-box p{
+    margin: 10px 0 40px;
+    color: white;
+    text-align: justify;
+}
+
+@media(max-width: 50%){
+    .text-box h1{
+        font-size:100%;
+    }
+    .nav-links ul li{
+        display: block;
+    }
+    .nav-links{
+        position: absolute;
+        background: #092950;
+        height: 100vh;
+        width:50%;
+        top: 0;
+        right:0;
+        text-align: left;
+        z-index: 2;
+    }
+}

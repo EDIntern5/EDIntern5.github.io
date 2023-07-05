@@ -65,6 +65,18 @@ nav img{
     font-weight: 300;
     line-height: 150%;
 }
+.landing-center h1{
+    font-size: 200%;
+}
+.landing-center p{
+    text-align: "justify";
+}
+hr.line{
+    border:0;
+    height: 2px;
+    background-image:linear-gradient(to right, rgba(0,0,0,0),#092950,rgba(0,0,0,0));
+}
+
 img{
     display: block;
     margin-left: auto;
@@ -121,11 +133,6 @@ nav .fa{
         cursor: pointer;
 
     }
-}
-hr.line{
-    border:0;
-    height: 2px;
-    background-image:linear-gradient(to right, rgba(0,0,0,0),#092950,rgba(0,0,0,0));
 }
 
 .topnav{
